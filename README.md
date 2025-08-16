@@ -1,6 +1,6 @@
 ![Design and Development](https://www.facebook.com/share/19mY4DSPVo/?mibextid=wwXIfr)
 
-## Hi there 👋
+## Hi there"Hey, I'm Mark, and I love creating cool programs just for fun-it's like solving puzzles with a keyboard!"👌🏻👾
 <!--
 **mark-Eludo/mark-Eludo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
